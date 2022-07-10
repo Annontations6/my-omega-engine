@@ -12,6 +12,7 @@ var mod = {
         ["Halloween", "css/themes/spooky.css"],
         ["eXPerience", "css/themes/experience.css"],
         ["Zuza", "css/themes/zuza.css"],
+        ["Godot Blue Not Allowed", "css/themes/darkblue-not-allowed.css"],
     ],
     layerNames: [
         ["Ω-Lλγers",
