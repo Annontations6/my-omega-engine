@@ -1,0 +1,8 @@
+@font-face{
+    font-family: symbola;
+    src: url('https://cdn.glitch.global/9090f5d9-ad05-4fd1-bbba-7f2c7c322c69/Symbola-AjYx.ttf?v=1657358639962');
+}
+
+:root{
+    --primary-font: symbola
+}
